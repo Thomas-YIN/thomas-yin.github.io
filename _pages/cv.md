@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[here](http://thomas-yin.github.io/files/paper3.pdf)
+[here](http://thomas-yin.github.io/files/Resume.pdf)
