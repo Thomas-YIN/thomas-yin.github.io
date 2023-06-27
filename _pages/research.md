@@ -5,12 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Preprints
 
-{% include base_path %}
+- **Semantically-aware Mask CycleGAN for Translating Artistic Portraits to Photo-realistic Visualizations.**\
+<span style="color:darkblue">**Zhuohao Yin**</span>\
+*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2306.06577.pdf), [[code]](https://github.com/Thomas-YIN/Semantically-aware-Mask-CycleGAN)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+

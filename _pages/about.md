@@ -25,22 +25,11 @@ I'm broadly interested in research topics related to artificial intelligence, co
 
 ## Awards
 
-* **Hong Kong PhD Fellowship** (2022 - 2026)
-* **HKUST RedBird PhD Scholarship** (2022)
-* **Dean's List for the School of Engineering** (Fall 2018, Fall 2019, Fall 2020, Spring 2022)
-* **University's Scholarship Scheme for Continuing Undergraduate Students** (2019 - 2022)
+* **Best FYP Award in Year 2022-2023, Department of Computer Science & Engineering, HKUST** (Jun. 2023)
+* **Dean’s List, School of Science, HKUST** (Jun. 2023, Jan. 2023, Jan. 2021, Jul. 2020)
+* **University's Scholarship Scheme for Continuing Undergraduate Students** (2022, 2021)
 
-## Academic Service
 
-* Program Committee Reviewer: ACL Rolling Review (2022 - Now), EMNLP (2022, 2023), ACL (2023), SemEval (2023), KDD (
-  2023)
-* Conference Volunteer: IJCAI-2023
+## Contact me
 
-## Teaching
-
-* COMP4332 Big Data Mining and Management Teaching Assistant (Spring 2023)
-* CSE Department Teaching Assistant Coordinator (Fall 2023, Spring 2024)
-
-## Contact me!
-
-You can reach me at `mightyweaver829 [at] gmail [dot] com`, this email will be active all the time.
+You can reach me at `zyinad [at] connect [dot] ust [dot] hk`.
