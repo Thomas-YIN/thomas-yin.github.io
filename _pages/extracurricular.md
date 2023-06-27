@@ -19,4 +19,4 @@ This page is used to keep track of my extracurricular activities, as well as my 
 
 ### Personal Hobbies
 
-- I am a huge coffee lover and I brew my own coffee nearly every day. Most of the time I make espresso-based drinks, such as latte and americano, but I also make cold brew coffee and Vietnamese coffee from time to time.
+- I am a huge coffee lover and I brew my own coffee nearly every day. Most of the time I make espresso-based drinks, such as latte and americano, but I also make cold brew coffee and Vietnamese coffee sometimes. 
