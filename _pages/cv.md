@@ -7,4 +7,3 @@ redirect_from:
   - /resume
 ---
 
-[here](http://thomas-yin.github.io/files/Resume.pdf)
