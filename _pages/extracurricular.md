@@ -15,8 +15,8 @@ This page is used to keep track of my extracurricular activities, as well as my 
 
 ### Sports Team
 - I was on the HKUST [**MSSSUG**](https://ug-msss.hkust.edu.hk/) Basketball Team, in which I mainly played the Small Forward (SF) position and wore uniform number 13. Shown below is a picture of our team after the game against HKU in the 2023 tournament.
-<img src="../images/basketball.JPG" alt="" width="450"/>
-
+<!-- <img src="../images/basketball.JPG" alt="" width="450"/> -->
+![](../images/basketball.JPG)
 ### Personal Hobbies
 
 - I am a huge coffee lover and I brew my own coffee nearly every day. Most of the time I make espresso-based drinks, such as latte and americano, but I also make cold brew coffee and Vietnamese coffee from time to time. 
