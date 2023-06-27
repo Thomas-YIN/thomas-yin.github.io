@@ -14,7 +14,7 @@ I'm currently an MS student in [Big Data Technology](https://seng.hkust.edu.hk/a
 
 ## Research Interest
 
-I'm broadly interested in research topics related to artificial intelligence, computer vision or machine learning.
+I'm broadly interested in research topics related to artificial intelligence, computer vision and machine learning.
 
 ## Education
 

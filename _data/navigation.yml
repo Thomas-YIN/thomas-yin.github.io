@@ -15,11 +15,10 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
-    
   # - title: "Guide"
   #   url: /markdown/
+
+
   - title: "Main"
     url: /about/
 
@@ -31,3 +30,6 @@ main:
 
   - title: "Extracurricular"
     url: /extracurricular/
+
+  - title: "CV"
+    url: /cv/
