@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhuohao Yin 尹卓豪 Thomas"
+title: "Zhuohao Yin 尹卓豪"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

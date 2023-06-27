@@ -6,12 +6,11 @@ redirect_from:
   - /courses
 ---
 
-This is the course history during my study in the Hong Kong University of Science and Technology. 
+This page displays my study pathway during my undergrad career.
 
-*Remark: Courses are listed in the format of `Course Code + Number of Credits + Course Name`*
+*Remark: Courses are listed in the format of `Course Code + Course Name`*
 
 ## UG Year 1    
-##### 16 + 20 + 6 = 42 Credits
 ### Fall
 ```angular2html
 COMP1022P   3   Introduction to Computing with Java

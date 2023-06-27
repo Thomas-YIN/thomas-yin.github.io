@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[here](<paper1.pdf>)
+[here](<../files/paper1.pdf>)
