@@ -6,18 +6,19 @@ redirect_from:
   - /courses
 ---
 
-This page displays my study pathway during my undergrad career.
+This page displays my study pathway during my undergrad career, which serves as a reference for those who have similar aspirations.
 
 *Remark: Courses are listed in the format of `Course Code + Course Name`*
 
 ## UG Year 1    
 ### Fall
 ```angular2html
-COMP1022P   3   Introduction to Computing with Java
-MATH1013    3   Calculus I B
-CHEM1004    3   Chemistry in Everyday Life
-ELEC1100    4   Introduction to Electro-Robot Design
-LANG1002S   3   English for University Studies I
+COMP1022P   Introduction to Computing with Java
+MATH1023   Honors Calculus I B
+CHEM1020   General Chemistry I
+LIFS1902   General Biology II
+LANG1002S   English for University Studies I
+SOSC1440   Introduction to Economics
 ```
 ### Spring
 ```angular2html
