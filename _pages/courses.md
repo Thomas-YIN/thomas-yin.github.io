@@ -6,9 +6,7 @@ redirect_from:
   - /courses
 ---
 
-This page displays my study pathway during my undergraduate career, which serves as a reference for those who have similar aspirations.
-
-*Remark: Courses are listed in the format of `Course Code + Course Name`*
+This page is a record of my study pathway during my undergraduate career, which may serve as a reference for those who have similar aspirations.
 
 ## UG Year 1    
 ### Fall
@@ -29,7 +27,7 @@ IEDA2200    Engineering Management
 LANG1003A   English for University Studies II
 ```
 ---
-## UG Year 2
+## UG Year 2 (declared a major in Data Science and Technology)
 ### Fall
 ```angular2html
 COMP2011    Programming with C++
@@ -47,7 +45,7 @@ MATH3322    Matrix Computation
 UROP1100    Undergraduate Research Opportunities Series 1
 ```
 ---
-## UG Year 3
+## UG Year 3 (declared an additional major in Computer Science)
 ### Fall 
 ```angular2html
 COMP3021    Java Programming
