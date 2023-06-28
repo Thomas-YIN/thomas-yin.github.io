@@ -19,5 +19,16 @@ in Proceedings of the ACM Conference on Computer-Supported Cooperative Work and 
 <span style="color:darkblue">**Zhuohao Yin**</span>.\
 *arXiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2306.06577.pdf), [[code]](https://github.com/Thomas-YIN/Semantically-aware-Mask-CycleGAN)
 
+## Projects
+
+- **Real-time Parking Vacancy Detection System Using Fisheye Cameras.**\
+*(Final Year Project, advisor: [Professor Gary Chan](https://www.cse.ust.hk/~gchan/))*. [[pdf]](http://thomas-yin.github.io/files/report.pdf), [[code]](https://github.com/lzr5198/carpark-vacancy-detection-system), [[demo]](https://www.youtube.com/watch?v=KC4RcZ52hQg)
+
+    - Team members: He Qihao, Lin Zhaorun, Yin Zhuohao, Zhou Siyuan.
+    - Won the Best FYP Award in the year of 2022-2023.
+
+- **Large-Scale Spatiotemporal Data Analytics and Learning.**\
+*(UROP Project, advisor: [Professor Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou))*. [[code]](https://github.com/Thomas-YIN/Large-Scale-Spatiotemporal-Data-Analytics-and-Learning)
+    
 
 
