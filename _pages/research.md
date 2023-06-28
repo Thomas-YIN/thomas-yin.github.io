@@ -11,7 +11,7 @@ During my undergraduate study, I have participated two UROP projects supervised 
 
 - **Event-induced Sudden Influx of Newcomers in Music Fandom.**\
 Qingyu Guo, Chuhan Shi, Chengzhong Liu, <span style="color:darkblue">**Zhuohao Yin**</span>, Xiaojuan Ma.\
-*CSCW 2023*.
+*CSCW 2023 (to appear)*.
 
 ## Preprints
 
