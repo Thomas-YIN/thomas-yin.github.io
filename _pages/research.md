@@ -23,7 +23,6 @@ in Proceedings of the ACM Conference on Computer-Supported Cooperative Work and 
 
 - **Real-time Parking Vacancy Detection System Using Fisheye Cameras.**     Jun. 2022 - Apr. 2023\
 *(Final Year Project, advisor: [Professor Gary Chan](https://www.cse.ust.hk/~gchan/))*. [[pdf]](http://thomas-yin.github.io/files/report.pdf), [[code]](https://github.com/lzr5198/carpark-vacancy-detection-system), [[demo]](https://www.youtube.com/watch?v=KC4RcZ52hQg)
-
     - Team members: He Qihao, Lin Zhaorun, Yin Zhuohao, Zhou Siyuan.
     - Won the Best FYP Award in the year of 2022-2023.
 
