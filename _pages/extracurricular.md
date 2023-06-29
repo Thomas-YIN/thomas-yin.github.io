@@ -19,3 +19,5 @@ This page is used to keep track of my extracurricular activities, as well as my 
 ### Personal Hobbies
 
 - I am a huge coffee lover and I brew my own coffee nearly every day. Most of the time I make espresso-based drinks, such as Latte and Americano, but I also make cold brew coffee and Vietnamese coffee from time to time. 
+
+- I am also an amateur photographer, interested in street photography and film photography. Check out my works on Instagram [@thomas_photo_booth](https://www.instagram.com/thomas_photo_booth/)!
