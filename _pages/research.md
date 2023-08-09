@@ -10,7 +10,7 @@ During my undergraduate study, I have participated two UROP projects supervised 
 ## Publications
 
 - **Exploring the Effects of Event-induced Sudden Influx of Newcomers to Online Pop Music Fandom Communities: Content, Interaction, and Engagement.**\
-Qingyu Guo, Chuhan Shi, Chengzhong Liu, <span style="color:darkblue">**Zhuohao Yin**</span>, Xiaojuan Ma.\
+Qingyu Guo, Chuhan Shi, <span style="color:darkblue">**Zhuohao Yin**</span>, Chengzhong Liu, Xiaojuan Ma.\
 in Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing *(CSCW 2023, to appear)*.
 
 ## Preprints
