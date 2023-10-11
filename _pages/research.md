@@ -11,7 +11,7 @@ During my undergraduate study, I have participated two UROP projects supervised 
 
 - **Exploring the Effects of Event-induced Sudden Influx of Newcomers to Online Pop Music Fandom Communities: Content, Interaction, and Engagement.**\
 Qingyu Guo, Chuhan Shi, <span style="color:darkblue">**Zhuohao Yin**</span>, Chengzhong Liu, Xiaojuan Ma.\
-in Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing *(CSCW 2023, to appear)*. [[pdf]](http://thomas-yin.github.io/files/V7cscw272-guo.pdf)
+in Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing *(CSCW 2023)*. [[pdf]](http://thomas-yin.github.io/files/V7cscw272-guo.pdf)
 
 ## Preprints
 
@@ -26,11 +26,11 @@ in Proceedings of the ACM Conference on Computer-Supported Cooperative Work and 
     - Team members: He Qihao, Lin Zhaorun, Yin Zhuohao, Zhou Siyuan.
     - Won the Best FYP Award in the year of 2022-2023.
 
-- **Large-Scale Spatiotemporal Data Analytics and Learning.**       Sep. 2022 - Dec. 2022\
+- **Large-Scale Spatiotemporal Data Analytics and Learning.**$~~~~~~~~~~~$Sep. 2022 - Dec. 2022\
 *(UROP Project, advisor: [Professor Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou))*. [[code]](https://github.com/Thomas-YIN/Large-Scale-Spatiotemporal-Data-Analytics-and-Learning)
     
-- **Classifying Wonders of the World Using Transfer Learning.**     Oct. 2022 - Dec. 2022\
+- **Classifying Wonders of the World Using Transfer Learning.**$~~~~~~~~~~~$Oct. 2022 - Dec. 2022\
 *(Course Project, instructor: [Professor Dit-Yan Yeung](https://sites.google.com/view/dyyeung))*. [[code]](https://github.com/Thomas-YIN/Classifying-Wonders-of-the-World-Using-Transfer-Learning)
 
-- **Multi-agent Path-finding System.**      Mar. 2022 - Apr. 2022\
+- **Multi-agent Path-finding System.**$~~~~~~~~~~~$Mar. 2022 - Apr. 2022\
 *(Course Project, instructor: [Professor Fangzhen Lin](https://cse.hkust.edu.hk/~flin/))*. [[code]](https://github.com/Thomas-YIN/Multi-agent-Path-finding-System)
