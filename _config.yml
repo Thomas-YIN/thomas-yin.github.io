@@ -86,7 +86,7 @@ author:
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=CqgnTukAAAAJ&hl=en&oi=ao"
   email            : "zyinad@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "zhuohao-yin-2a1b68204/"
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0007-1467-286X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
