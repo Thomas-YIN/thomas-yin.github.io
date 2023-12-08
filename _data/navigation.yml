@@ -17,7 +17,6 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-
   - title: "Main"
     url: /about/
 
@@ -28,7 +27,7 @@ main:
     url: /courses/
 
   - title: "Blogs"
-  url: /year-archive/
+    url: /year-archive/
 
   - title: "Extracurricular"
     url: /extracurricular/
