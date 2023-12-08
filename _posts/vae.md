@@ -1,3 +1,9 @@
+---
+title: 'Understanding the Variational Autoencoder'
+date: 2023-12-08
+permalink: /posts/vae/
+---
+
 # Understanding the Variational Autoencoder
 
 ## Probablistic Generative Models (with maximum likelihood estimation)
