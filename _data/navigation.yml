@@ -25,10 +25,10 @@ main:
 
   - title: "Courses"
     url: /courses/
-
+    
   - title: "Blogs"
     url: /year-archive/
-    
+
   - title: "Extracurricular"
     url: /extracurricular/
 
