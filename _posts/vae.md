@@ -4,6 +4,8 @@ date: 2023-12-08
 permalink: /posts/vae/
 ---
 
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+
 # Understanding the Variational Autoencoder
 
 ## Probablistic Generative Models (with maximum likelihood estimation)
