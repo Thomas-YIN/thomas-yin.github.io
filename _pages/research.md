@@ -19,6 +19,10 @@ in Proceedings of the ACM Conference on Computer-Supported Cooperative Work and 
 <span style="color:darkblue">**Zhuohao Yin**</span>.\
 *arXiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2306.06577.pdf), [[code]](https://github.com/Thomas-YIN/Semantically-aware-Mask-CycleGAN)
 
+- **HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance.**\
+<span style="color:darkblue">**Zhuohao Yin**</span>, Xin Huang.\
+*arXiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2311.18273.pdf), [[code]](https://github.com/Thomas-YIN/SemEval-2023-Task1)
+
 ## Other Projects
 
 - **Real-time Parking Vacancy Detection System Using Fisheye Cameras.** Jun. 2022 - Apr. 2023\
