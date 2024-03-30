@@ -18,18 +18,18 @@ I'm broadly interested in research topics related to artificial intelligence, co
 
 ## Education
 
-**Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
+**Hong Kong University of Science and Technology**
 
-- Master of Science in Big Data Technology,  *Sep. 2023 -- Jun. 2024 (Expected)*
-- Bachelor of Science in Data Science and Technology, and Computer Science,  *Sep. 2019 -- Jun. 2023*, *First Class Honors*
+- Master of Science in Big Data Technology,  <em style="float:right">*Sep. 2023 -- Dec. 2024 (Expected)*</em>
+- Bachelor of Science in Data Science and Technology, and Computer Science,  <em style="float:right">*Sep. 2019 -- Jun. 2023*, *First Class Honors*</em>
 
-## Awards
+## Awards & Scholarships
 
-* **Best FYP Award in Year 2022-2023, Department of Computer Science & Engineering, HKUST** (Jun. 2023)
-* **Dean’s List, School of Science, HKUST** (Jun. 2023, Jan. 2023, Jan. 2021, Jul. 2020)
-* **University's Scholarship Scheme for Continuing Undergraduate Students** (2022, 2021)
-
+* **Best FYP Award in Year 2022-2023, Department of Computer Science & Engineering, HKUST** <em style="float:right">(Jun. 2023)</em>
+* **Dean’s List, School of Science, HKUST** <em style="float:right">(Jun. 2023, Jan. 2023, Jan. 2021, Jul. 2020)</em>
+* **University's Scholarship Scheme for Continuing Undergraduate Students** <em style="float:right">(2022, 2021)</em>
+* **Entrance Scholarship for MSc BDT Program 2023/24** <em style="float:right">(Jun. 2023)</em>
 
 ## Contact me
 
-You can reach me at `zyinad [at] connect [dot] ust [dot] hk`.
+You can reach me at `zyinad [at] connect [dot] ust [dot] hk` or `zyinad23 [at] gmail [dot] com`.
