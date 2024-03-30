@@ -39,7 +39,7 @@ Data Analytics
 Artificial Intelligence
 </summary>
 
-<div>
+<div markdown="1">
 
 - **Real-time Parking Vacancy Detection System Using Fisheye Cameras.** <em style="float:right">Jun. 2022 - Apr. 2023</em>\
 *(Final Year Project, advisor: [Professor Gary Chan](https://www.cse.ust.hk/~gchan/))*. [[pdf]](http://thomas-yin.github.io/files/report.pdf), [[code]](https://github.com/lzr5198/carpark-vacancy-detection-system), [[demo]](https://www.youtube.com/watch?v=KC4RcZ52hQg)
