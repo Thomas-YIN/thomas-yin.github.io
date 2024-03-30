@@ -88,6 +88,7 @@ Data Visualization
   border-radius: 8px;
   padding: 12px;
   margin-bottom: 6px;
+  width: 100%;
 }
 
 .da {background-color: #ffd6cc;} /* red */
