@@ -39,10 +39,14 @@ Data Analytics
 Artificial Intelligence
 </summary>
 
+<div>
+
 - **Real-time Parking Vacancy Detection System Using Fisheye Cameras.** <em style="float:right">Jun. 2022 - Apr. 2023</em>\
 *(Final Year Project, advisor: [Professor Gary Chan](https://www.cse.ust.hk/~gchan/))*. [[pdf]](http://thomas-yin.github.io/files/report.pdf), [[code]](https://github.com/lzr5198/carpark-vacancy-detection-system), [[demo]](https://www.youtube.com/watch?v=KC4RcZ52hQg)
     - Team members: Qihao He, Zhaorun Lin, Zhuohao Yin, Siyuan Zhou.
     - Won the **Best FYP Award** in the year of 2022-2023.
+    
+</div>
 
 - **Multi-agent Path-finding System.** <em style="float:right">Mar. 2022 - Apr. 2022</em>\
 *(Course Project, instructor: [Professor Fangzhen Lin](https://cse.hkust.edu.hk/~flin/))*. [[code]](https://github.com/Thomas-YIN/Multi-agent-Path-finding-System)
