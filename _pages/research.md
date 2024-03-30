@@ -71,16 +71,16 @@ Data Visualization
 <style>
 .md{
 	color: #333;
-	font: 18px Helvetica, arial, freesans, clean, sans-serif;
+	font: 16px Helvetica, arial, freesans, clean, sans-serif;
 	word-wrap: break-word;
 	line-height: 1.7;
 	-webkit-font-smoothing: antialiased;
 }
 
 .summary{
-    font-size: 14pt;
+    font-size: 15pt;
     font-weight: bold;
-    font-family: Verdana, sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 
 .label {
