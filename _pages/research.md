@@ -61,7 +61,7 @@ Data Visualization
 <div class="md" markdown="1">
 
 - **Large-Scale Spatiotemporal Data Analytics and Learning.** <em style="float:right">Sep. 2022 - Dec. 2022</em><br />
-*(UROP Project, advisor: [Professor Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou))*. [[code]](https://github.com/Thomas-YIN/Large-Scale-Spatiotemporal-Data-Analytics-and-Learning)
+*(UROP Project, advisor: [Professor Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou))*. [[pdf]](http://thomas-yin.github.io/files/spatio.pdf), [[code]](https://github.com/Thomas-YIN/Large-Scale-Spatiotemporal-Data-Analytics-and-Learning)
 
 </div>
 </details>
