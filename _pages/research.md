@@ -43,6 +43,9 @@ Artificial Intelligence
 </summary>
 <div class="md" markdown="1">
 
+- **Exploring Prompting Methods for Few-shot Text Mining** <em style="float:right">Mar. 2024 - May. 2024</em><br />
+*(Course Project, instructor: [Professor Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/))*. [[pdf]](http://thomas-yin.github.io/files/proto.pdf), [[code]](https://github.com/Thomas-YIN/Protoverb-PromptTuning)
+
 - **Real-time Parking Vacancy Detection System Using Fisheye Cameras.** <em style="float:right">Jun. 2022 - Apr. 2023</em><br />
 *(Final Year Project, advisor: [Professor Gary Chan](https://www.cse.ust.hk/~gchan/))*. [[pdf]](http://thomas-yin.github.io/files/report.pdf), [[code]](https://github.com/lzr5198/carpark-vacancy-detection-system), [[demo]](https://www.youtube.com/watch?v=KC4RcZ52hQg)
     - Team members: Qihao He, Zhaorun Lin, Zhuohao Yin, Siyuan Zhou.
