@@ -31,6 +31,9 @@ Data Analytics
 </summary>
 <div class="md" markdown="1">
 
+- **Purchase Analysis & Customer Profiling with PySpark.** <em style="float:right">Mar. 2023 - May. 2023</em><br />
+*(Course Project, instructor: [Professor Ke Yi](https://home.cse.ust.hk/~yike/))*. [[pdf]](http://thomas-yin.github.io/files/MSBD5003_project_report.pdf)
+
 - **Big Data Analytics on Trip Advisor Hotel Ratings and Reviews.** <em style="float:right">Oct. 2023 - Dec. 2023</em><br />
 *(Course Project, instructor: [Professor Ki Chan](https://www.cse.ust.hk/~kccecia/))*. [[pdf]](http://thomas-yin.github.io/files/msbd5001_report.pdf)
 
@@ -43,7 +46,7 @@ Artificial Intelligence
 </summary>
 <div class="md" markdown="1">
 
-- **Exploring Prompting Methods for Few-shot Text Mining** <em style="float:right">Mar. 2024 - May. 2024</em><br />
+- **Exploring Prompting Methods for Few-shot Text Mining.** <em style="float:right">Mar. 2024 - May. 2024</em><br />
 *(Course Project, instructor: [Professor Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/))*. [[pdf]](http://thomas-yin.github.io/files/proto.pdf), [[code]](https://github.com/Thomas-YIN/Protoverb-PromptTuning)
 
 - **Real-time Parking Vacancy Detection System Using Fisheye Cameras.** <em style="float:right">Jun. 2022 - Apr. 2023</em><br />
