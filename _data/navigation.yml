@@ -20,8 +20,8 @@ main:
   - title: "Main"
     url: /about/
 
-  - title: "Research"
-    url: /research/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Courses"
     url: /courses/
