@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I'm currently an MS student in [Big Data Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (2023 - 2024). I received my Bachelor's degree with a double major in Data Science and Technology, and Computer Science from the same institution (2019 - 2023).
+I'm currently an MS student in [Big Data Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (2023 - 2024). Prior to that, I received my Bachelor's degree with a double major in Data Science and Technology, and Computer Science from the same institution (2019 - 2023).
 
 <!-- ## Research Interest
 
@@ -25,10 +25,10 @@ I'm broadly interested in research topics related to artificial intelligence, co
 
 ## Awards & Scholarships
 
+* **Entrance Scholarship for MSc BDT Program 2023/24** <em style="float:right">(Jun. 2023)</em>
 * **Best FYP Award in Year 2022-2023, Department of Computer Science & Engineering, HKUST** <em style="float:right">(Jun. 2023)</em>
 * **Dean’s List, School of Science, HKUST** <em style="float:right">(Jun. 2023, Jan. 2023, Jan. 2021, Jul. 2020)</em>
 * **University's Scholarship Scheme for Continuing Undergraduate Students** <em style="float:right">(2022, 2021)</em>
-* **Entrance Scholarship for MSc BDT Program 2023/24** <em style="float:right">(Jun. 2023)</em>
 
 ## Contact me
 
