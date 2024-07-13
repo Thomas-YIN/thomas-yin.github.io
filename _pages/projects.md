@@ -26,7 +26,7 @@ in Proceedings of the ACM Conference on Computer-Supported Cooperative Work and 
 
 ## Other Projects
 
-<details class="label da">
+<details class="label da" open>
 <summary class="summary">
 Data Analytics
 </summary>
@@ -41,7 +41,7 @@ Data Analytics
 </div>
 </details>
 
-<details class="label ai">
+<details class="label ai" open>
 <summary class="summary">
 Artificial Intelligence
 </summary>
@@ -61,7 +61,7 @@ Artificial Intelligence
 </div>
 </details>
 
-<details class="label dv">
+<details class="label dv" open>
 <summary class="summary">
 Data Visualization
 </summary>
