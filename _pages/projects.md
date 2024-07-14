@@ -93,7 +93,7 @@ Data Visualization
 .label {
   color: black;
   border-radius: 8px;
-  padding: 12px;
+  padding: 10px;
   margin-bottom: 6px;
   width: 100%;
 }
