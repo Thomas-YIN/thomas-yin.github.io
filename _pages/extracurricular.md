@@ -17,7 +17,8 @@ This page is intended for my extracurricular activities, as well as my hobbies.
 
 <figure>
     <img src='http://thomas-yin.github.io/images/basketball.JPG' alt='bb' />
-    <figcaption>S. H. Ho Sports Hall
+    <figcaption>Team Photo
+        <br>S. H. Ho Sports Hall
         <br>Feb. 26, 2023</figcaption>
 </figure>
 
@@ -31,7 +32,7 @@ This page is intended for my extracurricular activities, as well as my hobbies.
 figure {
     display: inline-block;
     border: 1px #cccccc solid;
-    padding: 4px;
+    padding: 2px;
     margin: auto; /* adjust as needed */
 }
 figure img {
