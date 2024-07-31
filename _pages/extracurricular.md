@@ -16,7 +16,7 @@ This page is intended for my extracurricular activities, as well as my hobbies.
 - I joined the HKUST [**MSSS**](https://msss.hkust.edu.hk/) Basketball Team after I began my postgraduate study, in which I played the Small Forward (SF) position and wore uniform number 5. *(Sep. 2023 - Jun. 2024)*
 <figure>
   <img src="http://thomas-yin.github.io/images/basketball.JPG" alt="bb">
-  <figcaption>Taken in S. H. Ho Sports Hall, Feb. 26, 2023</figcaption>
+  <figcaption class="figure-caption text-center">S. H. Ho Sports Hall, Feb. 26, 2023</figcaption>
 </figure>
 
 ### Personal Hobbies
