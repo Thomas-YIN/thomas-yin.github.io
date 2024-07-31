@@ -9,14 +9,14 @@ This page is intended for my extracurricular activities, as well as my hobbies.
 
 ### Volunteer Experience
 
-- I was one of the peer mentors in the Peer Mentor Program hosted by [**MSSSUG**](https://ug-msss.hkust.edu.hk/) (Mainland Scholar and Students Society Undergraduate), in which I led orientation activities for 1st-year undergraduate students to get adapted to university life, such as workshops on course registration, major selection, etc. *(Sep. 2020 - Jun. 2022)*
+- I was one of the peer mentors in the Peer Mentor Program hosted by [**MSSSUG**](https://ug-msss.hkust.edu.hk/) (Mainland Scholar and Students Society Undergraduate), in which I led orientation activities for 1st-year undergraduate students to get adapted to university life, such as workshops on course registration, major selection, etc. <em style="float:right">*(Sep. 2020 - Jun. 2022)*</em>
 
 ### Sports Team
-- I was on the HKUST [**MSSSUG**](https://ug-msss.hkust.edu.hk/) Basketball Team, in which I played the Small Forward (SF) position and wore uniform number 13. Shown below is a picture of our team after we won the game against HKU in the 2023 tournament. *(Sep. 2019 - Jun. 2023)*
-- I joined the HKUST [**MSSS**](https://msss.hkust.edu.hk/) Basketball Team after I began my postgraduate study, in which I played the Small Forward (SF) position and wore uniform number 5. *(Sep. 2023 - Jun. 2024)*
-<figure style='text-align: center'>
+- I was on the HKUST [**MSSSUG**](https://ug-msss.hkust.edu.hk/) Basketball Team, in which I played the Small Forward (SF) position and wore uniform number 13. Shown below is a picture of our team after we won the game against HKU in the 2023 tournament. <em style="float:right">*(Sep. 2019 - Jun. 2023)*</em>
+- I joined the HKUST [**MSSS**](https://msss.hkust.edu.hk/) Basketball Team after I began my postgraduate study, in which I played the Small Forward (SF) position and wore uniform number 5. <em style="float:right">*(Sep. 2023 - Jun. 2024)*</em>
+<figure>
   <img src="http://thomas-yin.github.io/images/basketball.JPG" alt="bb">
-  <figcaption>S. H. Ho Sports Hall, Feb. 26, 2023</figcaption>
+  <figcaption style='text-align: center'>S. H. Ho Sports Hall, Feb. 26, 2023</figcaption>
 </figure>
 
 ### Personal Hobbies
