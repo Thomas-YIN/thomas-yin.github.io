@@ -30,14 +30,14 @@ This page is intended for my extracurricular activities, as well as my hobbies.
 <style>
 figure {
     display: inline-block;
-    border: 1px dotted gray;
-    margin: 20px; /* adjust as needed */
+    border: 1px #cccccc solid;
+    padding: 4px;
+    margin: auto; /* adjust as needed */
 }
 figure img {
     vertical-align: top;
 }
 figure figcaption {
-    border: 1px dotted blue;
     text-align: center;
 }
 </style>
