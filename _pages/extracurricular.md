@@ -14,6 +14,7 @@ This page is intended for my extracurricular activities, as well as my hobbies.
 ### Sports Team
 - I was on the HKUST [**MSSSUG**](https://ug-msss.hkust.edu.hk/) Basketball Team, in which I played the Small Forward (SF) position and wore uniform number 13. Shown below is a picture of our team after we won the game against HKU in the 2023 tournament. <em style="float:right">*(Sep. 2019 - Jun. 2023)*</em>
 - I joined the HKUST [**MSSS**](https://msss.hkust.edu.hk/) Basketball Team after I began my postgraduate study, in which I played the Small Forward (SF) position and wore uniform number 5. <em style="float:right">*(Sep. 2023 - Jun. 2024)*</em>
+
 <figure>
   <img src="http://thomas-yin.github.io/images/basketball.JPG" alt="bb">
   <figcaption>S. H. Ho Sports Hall, Feb. 26, 2023</figcaption>
@@ -26,10 +27,17 @@ This page is intended for my extracurricular activities, as well as my hobbies.
 - I am also an amateur photographer, interested in street photography and film photography. Check out my works on Instagram [@thomas_photo_booth](https://www.instagram.com/thomas_photo_booth/)!
 
 <style>
-    figure {
-    margin: 10px auto; /* not needed unless you want centered */
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
 }
-    figcaption {
-    text-align: center;
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+text-align: right;
 }
 </style>
