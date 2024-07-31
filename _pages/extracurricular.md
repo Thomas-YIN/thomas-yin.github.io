@@ -16,7 +16,7 @@ This page is intended for my extracurricular activities, as well as my hobbies.
 - I joined the HKUST [**MSSS**](https://msss.hkust.edu.hk/) Basketball Team after I began my postgraduate study, in which I played the Small Forward (SF) position and wore uniform number 5. <em style="float:right">*(Sep. 2023 - Jun. 2024)*</em>
 <figure>
   <img src="http://thomas-yin.github.io/images/basketball.JPG" alt="bb">
-  <figcaption style='text-align: center'>S. H. Ho Sports Hall, Feb. 26, 2023</figcaption>
+  <figcaption>S. H. Ho Sports Hall, Feb. 26, 2023</figcaption>
 </figure>
 
 ### Personal Hobbies
@@ -24,3 +24,12 @@ This page is intended for my extracurricular activities, as well as my hobbies.
 - I am a huge coffee lover and I brew coffee every day. Most of the time I make espresso-based drinks, such as Latte and Americano, but I also make cold brew coffee and Vietnamese coffee from time to time.
 
 - I am also an amateur photographer, interested in street photography and film photography. Check out my works on Instagram [@thomas_photo_booth](https://www.instagram.com/thomas_photo_booth/)!
+
+<style>
+    figure {
+    margin: 10px auto; /* not needed unless you want centered */
+}
+    figcaption {
+    text-align: center;
+}
+</style>
