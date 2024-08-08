@@ -12,7 +12,7 @@ During my undergraduate study, I have participated two UROP projects supervised 
 
 - **Exploring the Effects of Event-induced Sudden Influx of Newcomers to Online Pop Music Fandom Communities: Content, Interaction, and Engagement.**\
 Qingyu Guo, Chuhan Shi, <span style="color:darkblue">**Zhuohao Yin**</span>, Chengzhong Liu, Xiaojuan Ma.\
-in Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing *(CSCW 2023)*. [[doi]](https://dl.acm.org/doi/10.1145/3610063)[[pdf]](http://thomas-yin.github.io/files/V7cscw272-guo.pdf)
+in Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing *(CSCW 2023)*. [[doi]](https://dl.acm.org/doi/10.1145/3610063), [[pdf]](http://thomas-yin.github.io/files/V7cscw272-guo.pdf)
 
 ## Preprints
 
