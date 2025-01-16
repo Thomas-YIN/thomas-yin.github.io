@@ -20,7 +20,7 @@ I'm broadly interested in research topics related to artificial intelligence, co
 
 **Hong Kong University of Science and Technology**
 
-- Master of Science in Big Data Technology <em style="float:right">*Sep. 2023 -- Dec. 2024 (Expected)*</em>
+- Master of Science in Big Data Technology <em style="float:right">*Sep. 2023 -- Jan. 2025*</em>
 - Bachelor of Science in Data Science and Technology, and Computer Science <em style="float:right">*Sep. 2019 -- Jun. 2023*, *First Class Honors*</em>
 
 ## Awards & Scholarships

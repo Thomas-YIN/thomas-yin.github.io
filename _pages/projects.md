@@ -5,7 +5,11 @@ permalink: /projects/
 author_profile: true
 ---
 
-During my undergraduate study, I have participated two UROP projects supervised by [Professor Xiaojuan Ma](https://www.cse.ust.hk/~mxj/) and [Professor Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) respectively, through which I have gradually discovered my passion for research. For the past year, I have also been fortunate to be advised by [Professor Gary Chan](https://www.cse.ust.hk/~gchan/) for my final year project on video analytics and occupancy detection in smart parking lots. 
+During my undergraduate study, I have participated two UROP projects supervised by [Professor Xiaojuan Ma](https://www.cse.ust.hk/~mxj/) and [Professor Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) respectively, through which I have gradually discovered my passion for research. 
+
+Throughout the last year of my undergrad, I have also been fortunate to be advised by [Professor Gary Chan](https://www.cse.ust.hk/~gchan/) for my final year project on video analytics and occupancy detection in smart parking lots.
+
+Additionally, I have done a list of course projects spanning a wide range of areas, which gave me the chance to enrich my skill set. 
 <!-- My current research interests lie broadly in topics related to artificial intelligence, computer vision and machine learning. -->
 
 ## Publications

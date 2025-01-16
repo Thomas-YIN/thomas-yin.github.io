@@ -8,6 +8,29 @@ redirect_from:
 
 This page is a record of my study pathway during my undergraduate career, which may serve as a reference for those who have similar aspirations.
 
+## PG Year 1    
+### Fall
+```angular2html
+MSBD5001    Foundations of Data Analytics
+MSBD5004    Mathematical Methods for Data Analysis
+MSBD5012    Machine Learning
+MSBD5018    Natural Language Processing
+```
+### Spring
+```angular2html
+MSBD5002    Data Mining and Knowledge Discovery
+MSBD5003    Big Data Computing
+MSBD5010    Image Processing and Analysis
+MSBD5013    Statistical Prediction
+```
+---
+## PG Year 2
+### Fall
+```angular2html
+MSBD5006    Quantitative Analysis of Financial Time Series
+MSBD5020    Database Systems
+```
+
 ## UG Year 1    
 ### Fall
 ```angular2html
